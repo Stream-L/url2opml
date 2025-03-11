@@ -379,9 +379,17 @@ export default function OPMLGenerator() {
                   <br />
                   OPML 文件可以导入到 RSS 阅读器中，一次性订阅多个源。
                   <br />
+                  由于功能尚未完善，在页面中单独添加链接无法自动获取标题，推荐直接导入仅有url的表格自动检测获取标题，并进行后续更改。
+                  <br />
                   This tool helps you create an OPML file from RSS feed URLs.
                   <br />
                   OPML files can be imported into RSS readers to subscribe to multiple feeds at once.
+                  <br />
+                  Since the functionality is not yet complete, adding links individually will not automatically fetch titles.
+                  It is recommended to directly import a table with only the url to automatically detect the title and make subsequent changes.
+                  <br />
+                  <br />
+                  期刊RSS获取的教程参考
                   <br />
                   <a href="https://zhuanlan.zhihu.com/p/564975250" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">
                     期刊RSS获取的教程参考
