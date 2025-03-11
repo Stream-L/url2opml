@@ -382,6 +382,10 @@ export default function OPMLGenerator() {
                   This tool helps you create an OPML file from RSS feed URLs.
                   <br />
                   OPML files can be imported into RSS readers to subscribe to multiple feeds at once.
+                  <br />
+                  <a href="https://zhuanlan.zhihu.com/p/564975250" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">
+                    期刊RSS获取的教程参考
+                  </a>
                 </p>
               </TooltipContent>
             </Tooltip>
